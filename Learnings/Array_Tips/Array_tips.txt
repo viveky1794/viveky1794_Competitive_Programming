@@ -1,0 +1,14 @@
+
+
+	@ An array is continuous homogeninuous data structure.
+	@ On an Array few operations performed.
+	  --> Traverse
+	  --> Insert
+	  --> Delete
+	  --> Sort
+	  --> Search
+
+	@ Make your master at these.:x
+
+
+
