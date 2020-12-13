@@ -1,0 +1,8 @@
+
+
+
+Q.1 : reverse the string.
+Q.2 : search substring in a given string.
+Q.3 : Rotate a string with given nummber of times.
+Q.4 : insert a substring in a given string.
+Q.5 : 

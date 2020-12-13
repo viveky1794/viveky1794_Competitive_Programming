@@ -1,0 +1,11 @@
+
+Q.1 : show a number in binary representation.
+Q.2 : check any given bit is set or not ?
+Q.3 : set all bits in a given range of an integer.
+Q.4 : reset all bits in a given range of an integer.
+Q.5 : swap nibble of an integer.
+Q.6 : check an given integer is equal or not.
+Q.7 : swap even_odd_bits.
+Q.8 : check how many bits are set in an given integer.
+Q.9 : check how many set bits are in an integer.
+Q.10 : 

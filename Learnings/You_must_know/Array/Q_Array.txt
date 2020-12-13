@@ -1,0 +1,8 @@
+
+
+Q.1 : reverse the array.
+Q.2 : sort the array by bubble, selation, insertion sort.
+Q.3 : sort by quick and merge sort technicals.
+Q.4 : search a number by linear, binary and terneary search.
+Q.5 : Rotate the array by given number of time.
+Q.6 : 
